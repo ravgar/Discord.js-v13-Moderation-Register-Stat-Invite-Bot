@@ -17,7 +17,6 @@
 
 **•** Kendinize Göre Botu Klasörleyin ve Aşağıdaki Düzen Gibi Dosyanın İçini Düzenleyerek Komutu Atın ve ( pm2 start ) yazarak botu başlatın
 
-
 const Sunucu_1 = "ravgar";
 module.exports = {
     apps: [
