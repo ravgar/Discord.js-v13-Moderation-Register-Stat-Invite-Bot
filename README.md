@@ -15,15 +15,5 @@
 
 **•** Botu2 Çevirmek İçin ecosystem.config.js dosyası oluşturun
 
-**•** Kendinize Göre Botu Klasörleyin ve Aşağıdaki Düzen Gibi Dosyanın İçini Düzenleyerek Komutu Atın ve ( pm2 start ) yazarak botu başlatın
+**•** Const Ekleyin Sonra module.export atadıktan sonra name,namespace,script'leyerek Düzenleyin ( pm2 start ) yazarak botu başlatın
 
-const Sunucu_1 = "ravgar";
-module.exports = {
-    apps: [
-        {
- name: "mainBot",
-        script: 'main.js',
-        watch: false,
-        exec_mode: "cluster",
-        max_memory_restart: "2G",
-        cwd: "./Main.js"
