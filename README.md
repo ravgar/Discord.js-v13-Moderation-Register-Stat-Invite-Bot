@@ -14,6 +14,8 @@
 
 **•** V13 Part 2 Gelicek
 
+**•** Herhangi Bir Sorunda Profilimden Ulaşabilirsiniz Hata İçin Yazmayın amana aman birşey bırakmadım çünkü
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 **•** Botu2 Çevirmek İçin ecosystem.config.js dosyası oluşturun
