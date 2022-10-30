@@ -1,4 +1,3 @@
-# Discord-Moderasyon-Stat-Invite-Log-Register-Botu-V13
   
 **•** TEK İSTEĞİM ŞU BENİM BOTUM BEN YAPTIM DEMEYİN.
 
