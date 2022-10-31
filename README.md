@@ -21,3 +21,6 @@
 
 **•** Const Ekleyin Sonra module.export atadıktan sonra name,namespace,script'leyerek Düzenleyin ( pm2 start ) yazarak botu başlatın
 
+-------------------------------------------------------------------------------------------------------------------------------
+
+**•** Bot İşleriyle Çok ilgilenmiyorum Artık Guardlı Backup'lu Halini Atarım Kafama Eserse Hadi Eyw Mucks
