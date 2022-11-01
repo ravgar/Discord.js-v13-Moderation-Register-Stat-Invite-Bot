@@ -1,6 +1,8 @@
   
 **•** TEK İSTEĞİM ŞU BENİM BOTUM BEN YAPTIM DEMEYİN.
 
+**•** Boş Adamlar Botu Alıp Kullanmasın Die Ufak Hatlar Bıraktım Az Çok Bu İşi Biliyosanız Ztn Kurarsınız.
+
 **•** Wexle Mod Halini Paylaştığımız Botun İnvite/Stat Eklenmiş Halini Paylaştım.
 
 **•** Bot Hem Ekip Hem Publara Kurulacak Düzendedir.
