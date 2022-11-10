@@ -21,7 +21,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-**•** Botu2 Çevirmek İçin ecosystem.config.js dosyası oluşturun
+**•** Botu pm2 Çevirmek İçin ecosystem.config.js dosyası oluşturun
 
 **•** Const Ekleyin Sonra module.export atadıktan sonra name,namespace,script'leyerek Düzenleyin ( pm2 start ) yazarak botu başlatın
 
