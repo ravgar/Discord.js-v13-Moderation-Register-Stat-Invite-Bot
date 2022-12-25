@@ -28,3 +28,4 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 **•** Bot İşleriyle Çok ilgilenmiyorum Artık Guardlı Backup'lu Halini Atarım Kafama Eserse Hadi Eyw Mucks
+g
