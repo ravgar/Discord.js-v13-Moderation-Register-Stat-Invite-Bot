@@ -1,7 +1,4 @@
   
-**•** TEK İSTEĞİM ŞU BENİM BOTUM BEN YAPTIM DEMEYİN.
-
-**•** Boş Adamlar Botu Alıp Kullanmasın Die Ufak Hatlar Bıraktım Az Çok Bu İşi Biliyosanız Ztn Kurarsınız.
 
 **•** Wexle Mod Halini Paylaştığımız Botun İnvite/Stat Eklenmiş Halini Paylaştım.
 
@@ -26,6 +23,4 @@
 **•** Const Ekleyin Sonra module.export atadıktan sonra name,namespace,script'leyerek Düzenleyin ( pm2 start ) yazarak botu başlatın
 
 -------------------------------------------------------------------------------------------------------------------------------
-
-**•** Bot İşleriyle Çok ilgilenmiyorum Artık Guardlı Backup'lu Halini Atarım Kafama Eserse Hadi Eyw Mucks
 
